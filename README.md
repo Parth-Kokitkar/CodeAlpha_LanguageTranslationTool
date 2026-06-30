@@ -1,19 +1,8 @@
 <p align="center">
   <img src="screenshots/TranslationStudio.png" alt="AI Translation Studio" width="725">
 </p>
-
-<h1 align="center">🌍 AI Translation Studio</h1>
-
-<p align="center">
-  <strong>Breaking Language Barriers with Intelligent AI-Powered Translation.</strong>
-</p>
-
 ---
 
----
-
-
----
 
 ## 📖 Overview
 
