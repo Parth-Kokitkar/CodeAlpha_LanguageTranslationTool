@@ -1,0 +1,570 @@
+[
+    {
+        "input": "Hello, my name is Parth.",
+        "output": "नमस्ते, मेरा नाम पार्थ है।"
+    },
+    {
+        "input": "Hello, my name is Parth.",
+        "output": "नमस्ते, मेरा नाम पार्थ है।"
+    },
+    {
+        "input": "Hello my name is Parth and I'm talking about this because I don't know about that.",
+        "output": "नमस्कार, मेरा नाम पार्थ है और मैं इस बारे में बात कर रहा हूं क्योंकि मैं इसके बारे में नहीं जानता।"
+    },
+    {
+        "input": "Hello, my name is Parth.",
+        "output": "नमस्ते, मेरा नाम पार्थ है।"
+    },
+    {
+        "input": "Hello, my name is...",
+        "output": "हैलो मेरा नाम है..."
+    },
+    {
+        "input": "Hello, my name is Sparth.",
+        "output": "नमस्ते, मेरा नाम स्पार्थ है।"
+    },
+    {
+        "input": "Hello, my name is Sparth.",
+        "output": "नमस्ते, मेरा नाम स्पार्थ है।"
+    },
+    {
+        "input": "Hello, my name is Sparth.",
+        "output": "नमस्ते, मेरा नाम स्पार्थ है।"
+    },
+    {
+        "input": "Hello, my name is Sparth",
+        "output": "नमस्ते, मेरा नाम स्पार्थ है"
+    },
+    {
+        "input": "Hello, my name is Parth.",
+        "output": "नमस्ते, मेरा नाम पार्थ है।"
+    },
+    {
+        "input": "Hello my name is Parth",
+        "output": "हेलो मेरा नाम पार्थ है"
+    },
+    {
+        "input": "Hello? Hello? Hello? Hello? Hello? Hello? Hello? Hello? Hello? Hello? Hello? Hello? Hello? Hello? Hello? Hello? Hello?",
+        "output": "नमस्ते? नमस्ते? नमस्ते? नमस्ते? नमस्ते? नमस्ते? नमस्ते? नमस्ते? नमस्ते? नमस्ते? नमस्ते? नमस्ते? नमस्ते? नमस्ते? नमस्ते? नमस्ते? नमस्ते?"
+    },
+    {
+        "input": "Hello, hello, hello, hello.",
+        "output": "नमस्ते नमस्ते नमस्ते नमस्ते।"
+    },
+    {
+        "input": "My name is Parth.",
+        "output": "मेरा नाम पार्थ है."
+    },
+    {
+        "input": "hello",
+        "output": "नमस्ते"
+    },
+    {
+        "input": "Hello, my name is Sparth Kukkidkar and this is VAD Test",
+        "output": "नमस्ते, मेरा नाम स्पार्थ कुक्किडकर है और यह वीएडी टेस्ट है"
+    },
+    {
+        "input": "Okay, my name is Parth Rukitkar and I am driving to Tagore Lapur. Don't know why but ya, since no, I don't have yet the conclusion that I have been performed yet. So ya, why not to be yes.",
+        "output": "ठीक है, मेरा नाम पार्थ रुकिटकर है और मैं टैगोर लापुर तक गाड़ी चला रहा हूँ। पता नहीं क्यों, लेकिन हां, चूंकि नहीं, मैं अभी तक इस निष्कर्ष पर नहीं पहुंचा हूं कि मेरा प्रदर्शन किया गया है। तो हाँ, हाँ क्यों नहीं होना चाहिए?"
+    },
+    {
+        "input": "okay my name is Parth Gokitkar and I'm telling about that it has not been happened since",
+        "output": "ठीक है मेरा नाम पार्थ गोकिटकर है और मैं इसके बारे में बता रहा हूं कि ऐसा तब से नहीं हुआ है"
+    },
+    {
+        "input": "Oh",
+        "output": "ओह"
+    },
+    {
+        "input": "Thanks for watching!",
+        "output": "देखने के लिए धन्यवाद!"
+    },
+    {
+        "input": "Thanks for watching!",
+        "output": "देखने के लिए धन्यवाद!"
+    },
+    {
+        "input": "Thanks for watching!",
+        "output": "देखने के लिए धन्यवाद!"
+    },
+    {
+        "input": "Thanks for watching!",
+        "output": "देखने के लिए धन्यवाद!"
+    },
+    {
+        "input": "Thanks for watching!",
+        "output": "देखने के लिए धन्यवाद!"
+    },
+    {
+        "input": "Thanks for watching!",
+        "output": "देखने के लिए धन्यवाद!"
+    },
+    {
+        "input": "Thanks for watching!",
+        "output": "देखने के लिए धन्यवाद!"
+    },
+    {
+        "input": "Thanks for watching!",
+        "output": "देखने के लिए धन्यवाद!"
+    },
+    {
+        "input": "Thanks for watching!",
+        "output": "देखने के लिए धन्यवाद!"
+    },
+    {
+        "input": "Thanks for watching!",
+        "output": "देखने के लिए धन्यवाद!"
+    },
+    {
+        "input": "Thanks for watching!",
+        "output": "देखने के लिए धन्यवाद!"
+    },
+    {
+        "input": "Thanks for watching!",
+        "output": "देखने के लिए धन्यवाद!"
+    },
+    {
+        "input": "Thanks for watching!",
+        "output": "देखने के लिए धन्यवाद!"
+    },
+    {
+        "input": "Thanks for watching!",
+        "output": "देखने के लिए धन्यवाद!"
+    },
+    {
+        "input": "Thanks for watching!",
+        "output": "देखने के लिए धन्यवाद!"
+    },
+    {
+        "input": "Thanks for watching!",
+        "output": "देखने के लिए धन्यवाद!"
+    },
+    {
+        "input": "Thanks for watching!",
+        "output": "देखने के लिए धन्यवाद!"
+    },
+    {
+        "input": "Hello, my name is Parth.",
+        "output": "नमस्ते, मेरा नाम पार्थ है।"
+    },
+    {
+        "input": "Hello, my name is Parth.",
+        "output": "नमस्ते, मेरा नाम पार्थ है।"
+    },
+    {
+        "input": "Thanks for watching!",
+        "output": "देखने के लिए धन्यवाद!"
+    },
+    {
+        "input": "Hello, my name is Pat.",
+        "output": "नमस्ते, मेरा नाम पैट है।"
+    },
+    {
+        "input": "My name is Parth Kokitkar.",
+        "output": "माझे नाव पार्थ कोकितकर आहे."
+    },
+    {
+        "input": "My name is Parth Kokitkar.",
+        "output": "मेरा नाम पार्थ कोकिटकर है."
+    },
+    {
+        "input": "Hello, my name is Partho Hidkar.",
+        "output": "नमस्ते, मेरा नाम पार्थो हिडकर है।"
+    },
+    {
+        "input": "Artificial Intelligence is transforming the world at an unprecedented pace. From healthcare and education to transportation and cybersecurity, AI-powered systems are helping humans solve complex problems more efficiently. Machine learning algorithms can analyze vast amounts of data, identify patterns, and make predictions that would be difficult for humans to achieve manually. As technology continues to evolve, AI is expected to play a crucial role in shaping the future of industries, improving productivity, and creating innovative solutions to global challenges. However, responsible development and ethical use of AI remain essential to ensure that these technologies benefit society as a whole",
+        "output": "आर्टिफिशियल इंटेलिजेंस दुनिया को अभूतपूर्व गति से बदल रहा है। स्वास्थ्य देखभाल और शिक्षा से लेकर परिवहन और साइबर सुरक्षा तक, एआई-संचालित सिस्टम मनुष्यों को जटिल समस्याओं को अधिक कुशलता से हल करने में मदद कर रहे हैं। मशीन लर्निंग एल्गोरिदम बड़ी मात्रा में डेटा का विश्लेषण कर सकते हैं, पैटर्न की पहचान कर सकते हैं और ऐसी भविष्यवाणियां कर सकते हैं जिन्हें मनुष्यों के लिए मैन्युअल रूप से हासिल करना मुश्किल होगा। जैसे-जैसे प्रौद्योगिकी का विकास जारी है, एआई से उद्योगों के भविष्य को आकार देने, उत्पादकता में सुधार करने और वैश्विक चुनौतियों के लिए नवीन समाधान तैयार करने में महत्वपूर्ण भूमिका निभाने की उम्मीद है। हालाँकि, एआई का जिम्मेदार विकास और नैतिक उपयोग यह सुनिश्चित करने के लिए आवश्यक है कि ये प्रौद्योगिकियाँ समग्र रूप से समाज को लाभान्वित करें"
+    },
+    {
+        "input": "Hello, my name is Partho Hidkar.",
+        "output": "नमस्ते, मेरा नाम पार्थो हिडकर है।"
+    },
+    {
+        "input": "Thanks for watching!",
+        "output": "देखने के लिए धन्यवाद!"
+    },
+    {
+        "input": "Hello, my name is Parth Kokitkar.",
+        "output": "नमस्ते, मेरा नाम पार्थ कोकिटकर है।"
+    },
+    {
+        "input": "salt baked Greek recognise 5 hours crear",
+        "output": "नमक बेक्ड ग्रीक पहचान 5 घंटे crear"
+    },
+    {
+        "input": "Artificial Intelligence is transforming the world at an unprecedented pace. From healthcare and education to transportation and cybersecurity, AI-powered systems are helping humans solve complex problems more efficiently. Machine learning algorithms can analyze vast amounts of data, identify patterns, and make predictions that would be difficult for humans to achieve manually. As technology continues to evolve, AI is expected to play a crucial role in shaping the future of industries, improving productivity, and creating innovative solutions to global challenges. However, responsible development and ethical use of AI remain essential to ensure that these technologies benefit society as a whole",
+        "output": "आर्टिफिशियल इंटेलिजेंस दुनिया को अभूतपूर्व गति से बदल रहा है। स्वास्थ्य देखभाल और शिक्षा से लेकर परिवहन और साइबर सुरक्षा तक, एआई-संचालित सिस्टम मनुष्यों को जटिल समस्याओं को अधिक कुशलता से हल करने में मदद कर रहे हैं। मशीन लर्निंग एल्गोरिदम बड़ी मात्रा में डेटा का विश्लेषण कर सकते हैं, पैटर्न की पहचान कर सकते हैं और ऐसी भविष्यवाणियां कर सकते हैं जिन्हें मनुष्यों के लिए मैन्युअल रूप से हासिल करना मुश्किल होगा। जैसे-जैसे प्रौद्योगिकी का विकास जारी है, एआई से उद्योगों के भविष्य को आकार देने, उत्पादकता में सुधार करने और वैश्विक चुनौतियों के लिए नवीन समाधान तैयार करने में महत्वपूर्ण भूमिका निभाने की उम्मीद है। हालाँकि, एआई का जिम्मेदार विकास और नैतिक उपयोग यह सुनिश्चित करने के लिए आवश्यक है कि ये प्रौद्योगिकियाँ समग्र रूप से समाज को लाभान्वित करें"
+    },
+    {
+        "input": "Hello, my name is Parth.",
+        "output": "नमस्कार, माझे नाव पार्थ आहे."
+    },
+    {
+        "input": "Artificial Intelligence is transforming the world at an unprecedented pace. From healthcare and education to transportation and cybersecurity, AI-powered systems are helping humans solve complex problems more efficiently. Machine learning algorithms can analyze vast amounts of data, identify patterns, and make predictions that would be difficult for humans to achieve manually. As technology continues to evolve, AI is expected to play a crucial role in shaping the future of industries, improving productivity, and creating innovative solutions to global challenges. However, responsible development and ethical use of AI remain essential to ensure that these technologies benefit society as a whole.",
+        "output": "कृत्रिम बुद्धिमत्ता अभूतपूर्व वेगाने जग बदलत आहे. आरोग्यसेवा आणि शिक्षणापासून वाहतूक आणि सायबरसुरक्षा पर्यंत, एआय-सक्षम प्रणाली मानवांना जटिल समस्या अधिक कार्यक्षमतेने सोडवण्यात मदत करत आहेत. मशीन लर्निंग अल्गोरिदम मोठ्या प्रमाणावर डेटाचे विश्लेषण करू शकतात, नमुने ओळखू शकतात आणि मानवांसाठी मॅन्युअली साध्य करणे कठीण होईल असे अंदाज लावू शकतात. जसजसे तंत्रज्ञान विकसित होत आहे, तसतसे उद्योगांचे भविष्य घडवण्यात, उत्पादकता सुधारण्यात आणि जागतिक आव्हानांवर नाविन्यपूर्ण उपाय तयार करण्यात AI महत्त्वपूर्ण भूमिका बजावेल अशी अपेक्षा आहे. तथापि, या तंत्रज्ञानाचा संपूर्ण समाजाला फायदा होईल याची खात्री करण्यासाठी AI चा जबाबदार विकास आणि नैतिक वापर आवश्यक आहे."
+    },
+    {
+        "input": "Artificial Intelligence is transforming the world at an unprecedented pace. From healthcare and education to transportation and cybersecurity, AI-powered systems are helping humans solve complex problems more efficiently. Machine learning algorithms can analyze vast amounts of data, identify patterns, and make predictions that would be difficult for humans to achieve manually. As technology continues to evolve, AI is expected to play a crucial role in shaping the future of industries, improving productivity, and creating innovative solutions to global challenges. However, responsible development and ethical use of AI remain essential to ensure that these technologies benefit society as a whole.",
+        "output": "आर्टिफिशियल इंटेलिजेंस दुनिया को अभूतपूर्व गति से बदल रहा है। स्वास्थ्य देखभाल और शिक्षा से लेकर परिवहन और साइबर सुरक्षा तक, एआई-संचालित सिस्टम मनुष्यों को जटिल समस्याओं को अधिक कुशलता से हल करने में मदद कर रहे हैं। मशीन लर्निंग एल्गोरिदम बड़ी मात्रा में डेटा का विश्लेषण कर सकते हैं, पैटर्न की पहचान कर सकते हैं और ऐसी भविष्यवाणियां कर सकते हैं जिन्हें मनुष्यों के लिए मैन्युअल रूप से हासिल करना मुश्किल होगा। जैसे-जैसे प्रौद्योगिकी का विकास जारी है, एआई से उद्योगों के भविष्य को आकार देने, उत्पादकता में सुधार करने और वैश्विक चुनौतियों के लिए नवीन समाधान तैयार करने में महत्वपूर्ण भूमिका निभाने की उम्मीद है। हालाँकि, एआई का जिम्मेदार विकास और नैतिक उपयोग यह सुनिश्चित करने के लिए आवश्यक है कि ये प्रौद्योगिकियाँ समग्र रूप से समाज को लाभान्वित करें।"
+    },
+    {
+        "input": "rtificial Intelligence is transforming the world at an unprecedented pace. From healthcare and education to transportation and cybersecurity, AI-powered systems are helping humans solve complex problems more efficiently. Machine learning algorithms can analyze vast amounts of data, identify patterns, and make predictions that would be difficult for humans to achieve manually. As technology continues to evolve, AI is expected to play a crucial role in shaping the future of industries, improving productivity, and creating innovative solutions to global challenges. However, responsible development and ethical use of AI remain essential to ensure that these technologies benefit society as a whole.",
+        "output": "कृत्रिम बुद्धिमत्ता दुनिया को अभूतपूर्व गति से बदल रही है। स्वास्थ्य देखभाल और शिक्षा से लेकर परिवहन और साइबर सुरक्षा तक, एआई-संचालित सिस्टम मनुष्यों को जटिल समस्याओं को अधिक कुशलता से हल करने में मदद कर रहे हैं। मशीन लर्निंग एल्गोरिदम बड़ी मात्रा में डेटा का विश्लेषण कर सकते हैं, पैटर्न की पहचान कर सकते हैं और ऐसी भविष्यवाणियां कर सकते हैं जिन्हें मनुष्यों के लिए मैन्युअल रूप से हासिल करना मुश्किल होगा। जैसे-जैसे प्रौद्योगिकी का विकास जारी है, एआई से उद्योगों के भविष्य को आकार देने, उत्पादकता में सुधार करने और वैश्विक चुनौतियों के लिए नवीन समाधान तैयार करने में महत्वपूर्ण भूमिका निभाने की उम्मीद है। हालाँकि, एआई का जिम्मेदार विकास और नैतिक उपयोग यह सुनिश्चित करने के लिए आवश्यक है कि ये प्रौद्योगिकियाँ समग्र रूप से समाज को लाभान्वित करें।"
+    },
+    {
+        "input": "Artificial Intelligence is transforming the world at an unprecedented pace. From healthcare and education to transportation and cybersecurity, AI-powered systems are helping humans solve complex problems more efficiently. Machine learning algorithms can analyze vast amounts of data, identify patterns, and make predictions that would be difficult for humans to achieve manually. As technology continues to evolve, AI is expected to play a crucial role in shaping the future of industries, improving productivity, and creating innovative solutions to global challenges. However, responsible development and ethical use of AI remain essential to ensure that these technologies benefit society as a whole.",
+        "output": "आर्टिफिशियल इंटेलिजेंस दुनिया को अभूतपूर्व गति से बदल रहा है। स्वास्थ्य देखभाल और शिक्षा से लेकर परिवहन और साइबर सुरक्षा तक, एआई-संचालित सिस्टम मनुष्यों को जटिल समस्याओं को अधिक कुशलता से हल करने में मदद कर रहे हैं। मशीन लर्निंग एल्गोरिदम बड़ी मात्रा में डेटा का विश्लेषण कर सकते हैं, पैटर्न की पहचान कर सकते हैं और ऐसी भविष्यवाणियां कर सकते हैं जिन्हें मनुष्यों के लिए मैन्युअल रूप से हासिल करना मुश्किल होगा। जैसे-जैसे प्रौद्योगिकी का विकास जारी है, एआई से उद्योगों के भविष्य को आकार देने, उत्पादकता में सुधार करने और वैश्विक चुनौतियों के लिए नवीन समाधान तैयार करने में महत्वपूर्ण भूमिका निभाने की उम्मीद है। हालाँकि, एआई का जिम्मेदार विकास और नैतिक उपयोग यह सुनिश्चित करने के लिए आवश्यक है कि ये प्रौद्योगिकियाँ समग्र रूप से समाज को लाभान्वित करें।"
+    },
+    {
+        "input": "Artificial Intelligence is transforming the world at an unprecedented pace. From healthcare and education to transportation and cybersecurity, AI-powered systems are helping humans solve complex problems more efficiently. Machine learning algorithms can analyze vast amounts of data, identify patterns, and make predictions that would be difficult for humans to achieve manually. As technology continues to evolve, AI is expected to play a crucial role in shaping the future of industries, improving productivity, and creating innovative solutions to global challenges. However, responsible development and ethical use of AI remain essential to ensure that these technologies benefit society as a whole.",
+        "output": "आर्टिफिशियल इंटेलिजेंस दुनिया को अभूतपूर्व गति से बदल रहा है। स्वास्थ्य देखभाल और शिक्षा से लेकर परिवहन और साइबर सुरक्षा तक, एआई-संचालित सिस्टम मनुष्यों को जटिल समस्याओं को अधिक कुशलता से हल करने में मदद कर रहे हैं। मशीन लर्निंग एल्गोरिदम बड़ी मात्रा में डेटा का विश्लेषण कर सकते हैं, पैटर्न की पहचान कर सकते हैं और ऐसी भविष्यवाणियां कर सकते हैं जिन्हें मनुष्यों के लिए मैन्युअल रूप से हासिल करना मुश्किल होगा। जैसे-जैसे प्रौद्योगिकी का विकास जारी है, एआई से उद्योगों के भविष्य को आकार देने, उत्पादकता में सुधार करने और वैश्विक चुनौतियों के लिए नवीन समाधान तैयार करने में महत्वपूर्ण भूमिका निभाने की उम्मीद है। हालाँकि, एआई का जिम्मेदार विकास और नैतिक उपयोग यह सुनिश्चित करने के लिए आवश्यक है कि ये प्रौद्योगिकियाँ समग्र रूप से समाज को लाभान्वित करें।"
+    },
+    {
+        "input": "Artificial Intelligence is transforming the world at an unprecedented pace. From healthcare and education to transportation and cybersecurity, AI-powered systems are helping humans solve complex problems more efficiently. Machine learning algorithms can analyze vast amounts of data, identify patterns, and make predictions that would be difficult for humans to achieve manually. As technology continues to evolve, AI is expected to play a crucial role in shaping the future of industries, improving productivity, and creating innovative solutions to global challenges. However, responsible development and ethical use of AI remain essential to ensure that these technologies benefit society as a whole.",
+        "output": "कृत्रिम बुद्धिमत्ता अभूतपूर्व वेगाने जग बदलत आहे. आरोग्यसेवा आणि शिक्षणापासून वाहतूक आणि सायबरसुरक्षा पर्यंत, एआय-सक्षम प्रणाली मानवांना जटिल समस्या अधिक कार्यक्षमतेने सोडवण्यात मदत करत आहेत. मशीन लर्निंग अल्गोरिदम मोठ्या प्रमाणावर डेटाचे विश्लेषण करू शकतात, नमुने ओळखू शकतात आणि मानवांसाठी मॅन्युअली साध्य करणे कठीण होईल असे अंदाज लावू शकतात. जसजसे तंत्रज्ञान विकसित होत आहे, तसतसे उद्योगांचे भविष्य घडवण्यात, उत्पादकता सुधारण्यात आणि जागतिक आव्हानांवर नाविन्यपूर्ण उपाय तयार करण्यात AI महत्त्वपूर्ण भूमिका बजावेल अशी अपेक्षा आहे. तथापि, या तंत्रज्ञानाचा संपूर्ण समाजाला फायदा होईल याची खात्री करण्यासाठी AI चा जबाबदार विकास आणि नैतिक वापर आवश्यक आहे."
+    },
+    {
+        "input": "Artificial Intelligence is transforming the world at an unprecedented pace. From healthcare and education to transportation and cybersecurity, AI-powered systems are helping humans solve complex problems more efficiently. Machine learning algorithms can analyze vast amounts of data, identify patterns, and make predictions that would be difficult for humans to achieve manually. As technology continues to evolve, AI is expected to play a crucial role in shaping the future of industries, improving productivity, and creating innovative solutions to global challenges. However, responsible development and ethical use of AI remain essential to ensure that these technologies benefit society as a whole.",
+        "output": "कृत्रिम बुद्धिमत्ता अभूतपूर्व वेगाने जग बदलत आहे. आरोग्यसेवा आणि शिक्षणापासून वाहतूक आणि सायबरसुरक्षा पर्यंत, एआय-सक्षम प्रणाली मानवांना जटिल समस्या अधिक कार्यक्षमतेने सोडवण्यात मदत करत आहेत. मशीन लर्निंग अल्गोरिदम मोठ्या प्रमाणावर डेटाचे विश्लेषण करू शकतात, नमुने ओळखू शकतात आणि मानवांसाठी मॅन्युअली साध्य करणे कठीण होईल असे अंदाज लावू शकतात. जसजसे तंत्रज्ञान विकसित होत आहे, तसतसे उद्योगांचे भविष्य घडवण्यात, उत्पादकता सुधारण्यात आणि जागतिक आव्हानांवर नाविन्यपूर्ण उपाय तयार करण्यात AI महत्त्वपूर्ण भूमिका बजावेल अशी अपेक्षा आहे. तथापि, या तंत्रज्ञानाचा संपूर्ण समाजाला फायदा होईल याची खात्री करण्यासाठी AI चा जबाबदार विकास आणि नैतिक वापर आवश्यक आहे."
+    },
+    {
+        "input": "Artificial Intelligence is transforming the world at an unprecedented pace. From healthcare and education to transportation and cybersecurity, AI-powered systems are helping humans solve complex problems more efficiently. Machine learning algorithms can analyze vast amounts of data, identify patterns, and make predictions that would be difficult for humans to achieve manually. As technology continues to evolve, AI is expected to play a crucial role in shaping the future of industries, improving productivity, and creating innovative solutions to global challenges. However, responsible development and ethical use of AI remain essential to ensure that these technologies benefit society as a whole.",
+        "output": "आर्टिफिशियल इंटेलिजेंस दुनिया को अभूतपूर्व गति से बदल रहा है। स्वास्थ्य देखभाल और शिक्षा से लेकर परिवहन और साइबर सुरक्षा तक, एआई-संचालित सिस्टम मनुष्यों को जटिल समस्याओं को अधिक कुशलता से हल करने में मदद कर रहे हैं। मशीन लर्निंग एल्गोरिदम बड़ी मात्रा में डेटा का विश्लेषण कर सकते हैं, पैटर्न की पहचान कर सकते हैं और ऐसी भविष्यवाणियां कर सकते हैं जिन्हें मनुष्यों के लिए मैन्युअल रूप से हासिल करना मुश्किल होगा। जैसे-जैसे प्रौद्योगिकी का विकास जारी है, एआई से उद्योगों के भविष्य को आकार देने, उत्पादकता में सुधार करने और वैश्विक चुनौतियों के लिए नवीन समाधान तैयार करने में महत्वपूर्ण भूमिका निभाने की उम्मीद है। हालाँकि, एआई का जिम्मेदार विकास और नैतिक उपयोग यह सुनिश्चित करने के लिए आवश्यक है कि ये प्रौद्योगिकियाँ समग्र रूप से समाज को लाभान्वित करें।"
+    },
+    {
+        "input": "Artificial Intelligence is transforming the world at an unprecedented pace. From healthcare and education to transportation and cybersecurity, AI-powered systems are helping humans solve complex problems more efficiently. Machine learning algorithms can analyze vast amounts of data, identify patterns, and make predictions that would be difficult for humans to achieve manually. As technology continues to evolve, AI is expected to play a crucial role in shaping the future of industries, improving productivity, and creating innovative solutions to global challenges. However, responsible development and ethical use of AI remain essential to ensure that these technologies benefit society as a whole.",
+        "output": "कृत्रिम बुद्धिमत्ता अभूतपूर्व वेगाने जग बदलत आहे. आरोग्यसेवा आणि शिक्षणापासून वाहतूक आणि सायबरसुरक्षा पर्यंत, एआय-सक्षम प्रणाली मानवांना जटिल समस्या अधिक कार्यक्षमतेने सोडवण्यात मदत करत आहेत. मशीन लर्निंग अल्गोरिदम मोठ्या प्रमाणावर डेटाचे विश्लेषण करू शकतात, नमुने ओळखू शकतात आणि मानवांसाठी मॅन्युअली साध्य करणे कठीण होईल असे अंदाज लावू शकतात. जसजसे तंत्रज्ञान विकसित होत आहे, तसतसे उद्योगांचे भविष्य घडवण्यात, उत्पादकता सुधारण्यात आणि जागतिक आव्हानांवर नाविन्यपूर्ण उपाय तयार करण्यात AI महत्त्वपूर्ण भूमिका बजावेल अशी अपेक्षा आहे. तथापि, या तंत्रज्ञानाचा संपूर्ण समाजाला फायदा होईल याची खात्री करण्यासाठी AI चा जबाबदार विकास आणि नैतिक वापर आवश्यक आहे."
+    },
+    {
+        "input": "Artificial Intelligence is transforming the world at an unprecedented pace. From healthcare and education to transportation and cybersecurity, AI-powered systems are helping humans solve complex problems more efficiently. Machine learning algorithms can analyze vast amounts of data, identify patterns, and make predictions that would be difficult for humans to achieve manually. As technology continues to evolve, AI is expected to play a crucial role in shaping the future of industries, improving productivity, and creating innovative solutions to global challenges. However, responsible development and ethical use of AI remain essential to ensure that these technologies benefit society as a whole.",
+        "output": "आर्टिफिशियल इंटेलिजेंस दुनिया को अभूतपूर्व गति से बदल रहा है। स्वास्थ्य देखभाल और शिक्षा से लेकर परिवहन और साइबर सुरक्षा तक, एआई-संचालित सिस्टम मनुष्यों को जटिल समस्याओं को अधिक कुशलता से हल करने में मदद कर रहे हैं। मशीन लर्निंग एल्गोरिदम बड़ी मात्रा में डेटा का विश्लेषण कर सकते हैं, पैटर्न की पहचान कर सकते हैं और ऐसी भविष्यवाणियां कर सकते हैं जिन्हें मनुष्यों के लिए मैन्युअल रूप से हासिल करना मुश्किल होगा। जैसे-जैसे प्रौद्योगिकी का विकास जारी है, एआई से उद्योगों के भविष्य को आकार देने, उत्पादकता में सुधार करने और वैश्विक चुनौतियों के लिए नवीन समाधान तैयार करने में महत्वपूर्ण भूमिका निभाने की उम्मीद है। हालाँकि, एआई का जिम्मेदार विकास और नैतिक उपयोग यह सुनिश्चित करने के लिए आवश्यक है कि ये प्रौद्योगिकियाँ समग्र रूप से समाज को लाभान्वित करें।"
+    },
+    {
+        "input": "Artificial Intelligence is transforming the world at an unprecedented pace. From healthcare and education to transportation and cybersecurity, AI-powered systems are helping humans solve complex problems more efficiently. Machine learning algorithms can analyze vast amounts of data, identify patterns, and make predictions that would be difficult for humans to achieve manually. As technology continues to evolve, AI is expected to play a crucial role in shaping the future of industries, improving productivity, and creating innovative solutions to global challenges. However, responsible development and ethical use of AI remain essential to ensure that these technologies benefit society as a whole.",
+        "output": "कृत्रिम बुद्धिमत्ता अभूतपूर्व वेगाने जग बदलत आहे. आरोग्यसेवा आणि शिक्षणापासून वाहतूक आणि सायबरसुरक्षा पर्यंत, एआय-सक्षम प्रणाली मानवांना जटिल समस्या अधिक कार्यक्षमतेने सोडवण्यात मदत करत आहेत. मशीन लर्निंग अल्गोरिदम मोठ्या प्रमाणावर डेटाचे विश्लेषण करू शकतात, नमुने ओळखू शकतात आणि मानवांसाठी मॅन्युअली साध्य करणे कठीण होईल असे अंदाज लावू शकतात. जसजसे तंत्रज्ञान विकसित होत आहे, तसतसे उद्योगांचे भविष्य घडवण्यात, उत्पादकता सुधारण्यात आणि जागतिक आव्हानांवर नाविन्यपूर्ण उपाय तयार करण्यात AI महत्त्वपूर्ण भूमिका बजावेल अशी अपेक्षा आहे. तथापि, या तंत्रज्ञानाचा संपूर्ण समाजाला फायदा होईल याची खात्री करण्यासाठी AI चा जबाबदार विकास आणि नैतिक वापर आवश्यक आहे."
+    },
+    {
+        "input": "Artificial Intelligence is transforming the world at an unprecedented pace. From healthcare and education to transportation and cybersecurity, AI-powered systems are helping humans solve complex problems more efficiently. Machine learning algorithms can analyze vast amounts of data, identify patterns, and make predictions that would be difficult for humans to achieve manually. As technology continues to evolve, AI is expected to play a crucial role in shaping the future of industries, improving productivity, and creating innovative solutions to global challenges. However, responsible development and ethical use of AI remain essential to ensure that these technologies benefit society as a whole.",
+        "output": "आर्टिफिशियल इंटेलिजेंस दुनिया को अभूतपूर्व गति से बदल रहा है। स्वास्थ्य देखभाल और शिक्षा से लेकर परिवहन और साइबर सुरक्षा तक, एआई-संचालित सिस्टम मनुष्यों को जटिल समस्याओं को अधिक कुशलता से हल करने में मदद कर रहे हैं। मशीन लर्निंग एल्गोरिदम बड़ी मात्रा में डेटा का विश्लेषण कर सकते हैं, पैटर्न की पहचान कर सकते हैं और ऐसी भविष्यवाणियां कर सकते हैं जिन्हें मनुष्यों के लिए मैन्युअल रूप से हासिल करना मुश्किल होगा। जैसे-जैसे प्रौद्योगिकी का विकास जारी है, एआई से उद्योगों के भविष्य को आकार देने, उत्पादकता में सुधार करने और वैश्विक चुनौतियों के लिए नवीन समाधान तैयार करने में महत्वपूर्ण भूमिका निभाने की उम्मीद है। हालाँकि, एआई का जिम्मेदार विकास और नैतिक उपयोग यह सुनिश्चित करने के लिए आवश्यक है कि ये प्रौद्योगिकियाँ समग्र रूप से समाज को लाभान्वित करें।"
+    },
+    {
+        "input": "Artificial Intelligence is transforming the world at an unprecedented pace. From healthcare and education to transportation and cybersecurity, AI-powered systems are helping humans solve complex problems more efficiently. Machine learning algorithms can analyze vast amounts of data, identify patterns, and make predictions that would be difficult for humans to achieve manually. As technology continues to evolve, AI is expected to play a crucial role in shaping the future of industries, improving productivity, and creating innovative solutions to global challenges. However, responsible development and ethical use of AI remain essential to ensure that these technologies benefit society as a whole.",
+        "output": "कृत्रिम बुद्धिमत्ता अभूतपूर्व वेगाने जग बदलत आहे. आरोग्यसेवा आणि शिक्षणापासून वाहतूक आणि सायबरसुरक्षा पर्यंत, एआय-सक्षम प्रणाली मानवांना जटिल समस्या अधिक कार्यक्षमतेने सोडवण्यात मदत करत आहेत. मशीन लर्निंग अल्गोरिदम मोठ्या प्रमाणावर डेटाचे विश्लेषण करू शकतात, नमुने ओळखू शकतात आणि मानवांसाठी मॅन्युअली साध्य करणे कठीण होईल असे अंदाज लावू शकतात. जसजसे तंत्रज्ञान विकसित होत आहे, तसतसे उद्योगांचे भविष्य घडवण्यात, उत्पादकता सुधारण्यात आणि जागतिक आव्हानांवर नाविन्यपूर्ण उपाय तयार करण्यात AI महत्त्वपूर्ण भूमिका बजावेल अशी अपेक्षा आहे. तथापि, या तंत्रज्ञानाचा संपूर्ण समाजाला फायदा होईल याची खात्री करण्यासाठी AI चा जबाबदार विकास आणि नैतिक वापर आवश्यक आहे."
+    },
+    {
+        "input": "Artificial Intelligence is transforming the world at an unprecedented pace. From healthcare and education to transportation and cybersecurity, AI-powered systems are helping humans solve complex problems more efficiently. Machine learning algorithms can analyze vast amounts of data, identify patterns, and make predictions that would be difficult for humans to achieve manually. As technology continues to evolve, AI is expected to play a crucial role in shaping the future of industries, improving productivity, and creating innovative solutions to global challenges. However, responsible development and ethical use of AI remain essential to ensure that these technologies benefit society as a whole.",
+        "output": "आर्टिफिशियल इंटेलिजेंस दुनिया को अभूतपूर्व गति से बदल रहा है। स्वास्थ्य देखभाल और शिक्षा से लेकर परिवहन और साइबर सुरक्षा तक, एआई-संचालित सिस्टम मनुष्यों को जटिल समस्याओं को अधिक कुशलता से हल करने में मदद कर रहे हैं। मशीन लर्निंग एल्गोरिदम बड़ी मात्रा में डेटा का विश्लेषण कर सकते हैं, पैटर्न की पहचान कर सकते हैं और ऐसी भविष्यवाणियां कर सकते हैं जिन्हें मनुष्यों के लिए मैन्युअल रूप से हासिल करना मुश्किल होगा। जैसे-जैसे प्रौद्योगिकी का विकास जारी है, एआई से उद्योगों के भविष्य को आकार देने, उत्पादकता में सुधार करने और वैश्विक चुनौतियों के लिए नवीन समाधान तैयार करने में महत्वपूर्ण भूमिका निभाने की उम्मीद है। हालाँकि, एआई का जिम्मेदार विकास और नैतिक उपयोग यह सुनिश्चित करने के लिए आवश्यक है कि ये प्रौद्योगिकियाँ समग्र रूप से समाज को लाभान्वित करें।"
+    },
+    {
+        "input": "v",
+        "output": "वी"
+    },
+    {
+        "input": "Hello, my name is Parth Okhitkar and I am studying in MIT, ADT University.",
+        "output": "नमस्ते, मेरा नाम पार्थ ओखितकर है और मैं एमआईटी, एडीटी यूनिवर्सिटी में पढ़ रहा हूं।"
+    },
+    {
+        "input": "Hello, my name is Partho Kittkar and I am studying Artificial Intelligence at MIT, ADT University.",
+        "output": "नमस्कार, माझे नाव पार्थो किट्टकर आहे आणि मी एमआयटी, एडीटी विद्यापीठात आर्टिफिशियल इंटेलिजन्सचे शिक्षण घेत आहे."
+    },
+    {
+        "input": "Hello, my name is Partho Kittkar and I am studying Artificial Intelligence at MIT, ADT University.",
+        "output": "नमस्ते, मेरा नाम पार्थो किट्टकर है और मैं एमआईटी, एडीटी विश्वविद्यालय में आर्टिफिशियल इंटेलिजेंस का अध्ययन कर रहा हूं।"
+    },
+    {
+        "input": "Hello, my name is Parth Kotikkar and I am",
+        "output": "नमस्कार, मेरा नाम पार्थ कोटिक्कर है और मैं हूं"
+    },
+    {
+        "input": "Hello, my name is Parth Kaukidkar.",
+        "output": "नमस्ते, मेरा नाम पार्थ कौकिदकर है।"
+    },
+    {
+        "input": "Hello, my name is Partho Kukitkar and I am studying",
+        "output": "नमस्ते, मेरा नाम पार्थो कुकितकर है और मैं पढ़ रहा हूँ"
+    },
+    {
+        "input": "Hello, my name is Parth Gokitkar and I am a",
+        "output": "नमस्ते, मेरा नाम पार्थ गोकिटकर है और मैं एक"
+    },
+    {
+        "input": "Hello, my name is Partho Kriyayi.",
+        "output": "नमस्ते, मेरा नाम पार्थो क्रियायी है।"
+    },
+    {
+        "input": "याउर्ज्पताल्प्रवम बादलो! क्या ग्या नहीं हैं पार्थ dul気 ढ़ालिभा List2019",
+        "output": "याउर्जपटलप्रीम बदलो! क्या गया नहीं हैं पार्थ डुल気 धालिबा लिस्ट2019"
+    },
+    {
+        "input": "Hello, my name is Parth Okitkar.",
+        "output": "नमस्ते, मेरा नाम पार्थ ओकित्कर है।"
+    },
+    {
+        "input": "Hello, my name is Parth.",
+        "output": "नमस्ते, मेरा नाम पार्थ है।"
+    },
+    {
+        "input": "Hello, my name is Spar.",
+        "output": "नमस्ते, मेरा नाम स्पार है।"
+    },
+    {
+        "input": "Hello, my name is Parth.",
+        "output": "नमस्कार, माझे नाव पार्थ आहे."
+    },
+    {
+        "input": "Hello, my name is Parth.",
+        "output": "你好，我叫帕特。"
+    },
+    {
+        "input": "Hello, my name is Parth.",
+        "output": "Hallo, mein Name ist Parth."
+    },
+    {
+        "input": "Hello, my name is Parth.",
+        "output": "Hola, mi nombre es Parth."
+    },
+    {
+        "input": "Hello, my name is Parth.",
+        "output": "ਹੈਲੋ, ਮੇਰਾ ਨਾਮ ਪਾਰਥ ਹੈ।"
+    },
+    {
+        "input": "Hello, my name is Parth.",
+        "output": "હેલો, મારું નામ પાર્થ છે."
+    },
+    {
+        "input": "Hello, my name is Parth.",
+        "output": "Ciao, mi chiamo Parth."
+    },
+    {
+        "input": "Hello, my name is Parth.",
+        "output": "안녕하세요, 제 이름은 Parth입니다."
+    },
+    {
+        "input": "Hello, my name is Parth.",
+        "output": "Bonjour, je m'appelle Parth."
+    },
+    {
+        "input": "Hello, my name is Parth.",
+        "output": "नमस्कार, माझे नाव पार्थ आहे."
+    },
+    {
+        "input": "Hello, my name is Parth.",
+        "output": "नमस्ते, मेरा नाम पार्थ है।"
+    },
+    {
+        "input": "Hey, my name is Park.",
+        "output": "Hola, mi nombre es parque."
+    },
+    {
+        "input": "Hey, my name is Park.",
+        "output": "Hey, mein Name ist Park."
+    },
+    {
+        "input": "Hey, my name is Park.",
+        "output": "अहो, माझे नाव पार्क आहे."
+    },
+    {
+        "input": "Hey, my name is Park.",
+        "output": "अरे, मेरा नाम पार्क है।"
+    },
+    {
+        "input": "my name is parth",
+        "output": "मेरा नाम पार्थ है"
+    },
+    {
+        "input": "Hello, my name is Pat.",
+        "output": "Hello, my name is Pat."
+    },
+    {
+        "input": "Hello, my name is Pat.",
+        "output": "नमस्ते, मेरा नाम पैट है।"
+    },
+    {
+        "input": "hello my name is parth what about you",
+        "output": "नमस्ते, मेरा नाम पार्थ है, आपके बारे में क्या ख्याल है?"
+    },
+    {
+        "input": "Hello, my name is Pat and I am trying to investigate about",
+        "output": "नमस्ते, मेरा नाम पैट है और मैं इसके बारे में जाँच करने का प्रयास कर रहा हूँ"
+    },
+    {
+        "input": "Hello, my name is Pat and I am trying to invite you to my channel.",
+        "output": "नमस्ते, मेरा नाम पैट है और मैं आपको अपने चैनल पर आमंत्रित करने का प्रयास कर रहा हूं।"
+    },
+    {
+        "input": "Hello, my name is Park and I am trying for translation.",
+        "output": "नमस्ते, मेरा नाम पार्क है और मैं अनुवाद के लिए प्रयास कर रहा हूँ।"
+    },
+    {
+        "input": "Hello, my name is Parth and I am drawing two",
+        "output": "नमस्ते, मेरा नाम पार्थ है और मैं दो चित्र बना रहा हूँ"
+    },
+    {
+        "input": "Hello, my name is Parth.",
+        "output": "नमस्ते, मेरा नाम पार्थ है।"
+    },
+    {
+        "input": "My name is Bart.",
+        "output": "मेरा नाम बार्ट है."
+    },
+    {
+        "input": "My name is Pat.",
+        "output": "मेरा नाम पैट है."
+    },
+    {
+        "input": "My name is Part.",
+        "output": "मेरा नाम पार्ट है."
+    },
+    {
+        "input": "My name is Pa.",
+        "output": "मेरा नाम पा है."
+    },
+    {
+        "input": "My name is Pard.",
+        "output": "मेरा नाम पार्ड है."
+    },
+    {
+        "input": "hey parth",
+        "output": "हे पार्थ"
+    },
+    {
+        "input": "my name is parth",
+        "output": "میرا نام پارتھ ہے۔"
+    },
+    {
+        "input": "my name is parth",
+        "output": "என் பெயர் பார்த்"
+    },
+    {
+        "input": "my name is parth",
+        "output": "నా పేరు పార్త్"
+    },
+    {
+        "input": "my name is parth",
+        "output": "ਮੇਰਾ ਨਾਮ ਪਾਰਥ ਹੈ"
+    },
+    {
+        "input": "my name is parth",
+        "output": "il mio nome è parth"
+    },
+    {
+        "input": "my name is parth",
+        "output": "મારું નામ પાર્થ છે"
+    },
+    {
+        "input": "my name is parth",
+        "output": "меня зовут парт"
+    },
+    {
+        "input": "my name is parth",
+        "output": "je m'appelle Parth"
+    },
+    {
+        "input": "my name is parth",
+        "output": "माझे नाव पार्थ आहे"
+    },
+    {
+        "input": "my name is parth",
+        "output": "my name is parth"
+    },
+    {
+        "input": "my name is parth",
+        "output": "my name is parth"
+    },
+    {
+        "input": "my n",
+        "output": "my n"
+    },
+    {
+        "input": "Hey parth",
+        "output": "Hey Parth"
+    },
+    {
+        "input": "Hey parth",
+        "output": "Hey parth"
+    },
+    {
+        "input": "Hey parth",
+        "output": "हे पार्थ"
+    },
+    {
+        "input": "Hey parth what are you doing",
+        "output": "अरे पार्थ तुम क्या कर रहे हो?"
+    },
+    {
+        "input": "Hey [",
+        "output": "अरे ["
+    },
+    {
+        "input": "Parth what are you doing?",
+        "output": "पार्थ तुम क्या कर रहे हो?"
+    },
+    {
+        "input": "Parth",
+        "output": "पार्थ"
+    },
+    {
+        "input": "hey my name is parth",
+        "output": "やあ、私の名前はパースです"
+    },
+    {
+        "input": "hey my name is parth",
+        "output": "مهلا اسمي بارث"
+    },
+    {
+        "input": "hey my name is parth",
+        "output": "やあ、私の名前はパースです"
+    },
+    {
+        "input": "hey my name is parth",
+        "output": "अरे माझे नाव पार्थ आहे"
+    },
+    {
+        "input": "hey my name is parth",
+        "output": "अरे मेरा नाम पार्थ है"
+    },
+    {
+        "input": "hey",
+        "output": "अरे"
+    },
+    {
+        "input": "Hey my name is parth . What can i do for you ?",
+        "output": "अरे मेरा नाम पार्थ है. मैं तुम्हारे लिए क्या कर सकता हूँ ?"
+    },
+    {
+        "input": "Hey my name is parth . What can i do for you?",
+        "output": "अरे मेरा नाम पार्थ है. मैं तुम्हारे लिए क्या कर सकता हूँ?"
+    },
+    {
+        "input": "Hey my name is parth . What can i do for you",
+        "output": "अरे मेरा नाम पार्थ है. मैं तुम्हारे लिए क्या कर सकता हूँ"
+    },
+    {
+        "input": "Hey my name is parth",
+        "output": "अरे मेरा नाम पार्थ है"
+    },
+    {
+        "input": "Hey mu",
+        "output": "अरे मु"
+    },
+    {
+        "input": "my name is parth what",
+        "output": "मेरा नाम पार्थ क्या है"
+    },
+    {
+        "input": "my name is parth w",
+        "output": "मेरा नाम पार्थ डब्ल्यू है"
+    },
+    {
+        "input": "my name is parth whay",
+        "output": "मेरा नाम पार्थ व्हाय है"
+    },
+    {
+        "input": "my name is parth",
+        "output": "मेरा नाम पार्थ है"
+    },
+    {
+        "input": "hey ,my name is parth. What can i do for you ?",
+        "output": "अरे, मेरा नाम पार्थ है। मैं तुम्हारे लिए क्या कर सकता हूँ ?"
+    }
+]

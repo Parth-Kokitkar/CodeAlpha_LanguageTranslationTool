@@ -1,0 +1,7 @@
+flask
+deep-translator
+openai-whisper
+torch
+numpy
+scipy
+sounddevice

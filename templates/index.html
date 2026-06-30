@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Translation Studio</title>
+
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+    <div class="background-glow"></div>
+
+    <div class="main-container">
+
+        <div class="hero-card">
+
+            <h1 id="app-title">Translation Studio</h1>
+
+            <p class="subtitle">
+                Neural Language Processing Engine
+            </p>
+
+            <div class="status-box">
+                <span class="status-dot"></span>
+
+                <span id="statusText">
+                    ONLINE
+                </span>
+            </div>
+
+        </div>
+
+        <div class="language-card">
+
+            <select id="source_lang">
+
+                <option value="english">English</option>
+                <option value="hindi">Hindi</option>
+                <option value="marathi">Marathi</option>
+                <option value="spanish">Spanish</option>
+                <option value="french">French</option>
+                <option value="german">German</option>
+                <option value="italian">Italian</option>
+                <option value="portuguese">Portuguese</option>
+                <option value="russian">Russian</option>
+                <option value="japanese">Japanese</option>
+                <option value="korean">Korean</option>
+                <option value="chinese (simplified)">Chinese</option>
+                <option value="arabic">Arabic</option>
+                <option value="turkish">Turkish</option>
+                <option value="urdu">Urdu</option>
+                <option value="bengali">Bengali</option>
+                <option value="gujarati">Gujarati</option>
+                <option value="tamil">Tamil</option>
+                <option value="telugu">Telugu</option>
+                <option value="punjabi">Punjabi</option>
+
+            </select>
+
+            <button
+                class="swap-btn"
+                onclick="swapLanguages()">
+
+                ⇄
+
+            </button>
+
+            <select id="target_lang">
+
+                <option value="hindi">Hindi</option>
+                <option value="english">English</option>
+                <option value="marathi">Marathi</option>
+                <option value="spanish">Spanish</option>
+                <option value="french">French</option>
+                <option value="german">German</option>
+                <option value="italian">Italian</option>
+                <option value="portuguese">Portuguese</option>
+                <option value="russian">Russian</option>
+                <option value="japanese">Japanese</option>
+                <option value="korean">Korean</option>
+                <option value="chinese (simplified)">Chinese</option>
+                <option value="arabic">Arabic</option>
+                <option value="turkish">Turkish</option>
+                <option value="urdu">Urdu</option>
+                <option value="bengali">Bengali</option>
+                <option value="gujarati">Gujarati</option>
+                <option value="tamil">Tamil</option>
+                <option value="telugu">Telugu</option>
+                <option value="punjabi">Punjabi</option>
+
+            </select>
+
+        </div>
+
+        <div class="input-card">
+
+            <h3>Input Text</h3>
+
+            <textarea
+                id="inputText"
+                placeholder="Start typing..."></textarea>
+
+            <div class="counter">
+
+                Characters:
+                <span id="charCount">0</span>
+
+                |
+
+                Words:
+                <span id="wordCount">0</span>
+
+            </div>
+
+        </div>
+
+        <div class="output-card">
+
+            <div class="output-header">
+
+                <h3>AI Response</h3>
+
+                <div class="actions">
+
+                <button
+        class="icon-btn"
+        onclick="copyTranslation()">
+
+        📋
+
+    </button>
+
+    <button
+      id="speakBtn"
+      class="icon-btn"
+      onclick="speakTranslation()">
+
+      🔊
+
+    </button>
+
+    <button
+        class="icon-btn"
+        onclick="startRecording()">
+
+        🎤
+
+    </button>
+
+</div>
+
+            </div>
+
+            <div id="translated_text">
+                Translation will appear here...
+            </div>
+
+        </div>
+
+        <div class="history-section">
+
+            <button
+                class="history-toggle"
+                onclick="toggleHistory()">
+
+                Neural Memory ▼
+
+            </button>
+
+            <div
+                id="historyContainer"
+                class="history-container">
+
+                {% for item in history %}
+
+                <div class="history-item">
+
+                    <strong>Input:</strong>
+                    {{ item.input }}
+
+                    <br><br>
+
+                    <strong>Output:</strong>
+                    {{ item.output }}
+
+                </div>
+
+                {% endfor %}
+
+            </div>
+
+        </div>
+
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+
+ 
+</body>
+
+</html>
