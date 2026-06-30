@@ -1,12 +1,15 @@
-# 🌍 Translation Studio
+<p align="center">
+  <img src="screenshots/TranslationStudio.png" alt="AI Translation Studio" width="900">
+</p>
 
-<div align="center">
+<h1 align="center">🌍 AI Translation Studio</h1>
 
-### AI-Powered Multilingual Language Translation Studio
+<p align="center">
+  <b>Breaking Language Barriers with Intelligent AI-Powered Translation.</b>
+</p>
 
-**Built with Python • Flask • OpenAI Whisper • Google Translator • gTTS**
+---
 
-</div>
 
 ---
 
@@ -132,7 +135,6 @@ http://127.0.0.1:5000
 
 ---
 
-# 📸 Application Preview
 
 # 📸 Application Preview
 
@@ -185,26 +187,22 @@ http://127.0.0.1:5000
 
 ---
 
-# 👨‍💻 Author
+# 👨‍💻 Developer
 
 **Parth Kokitkar**
 
-Artificial Intelligence Student
+B.Tech Student – Artificial Intelligence
 
 MIT ADT University
 
-CodeAlpha AI Intern
+Passionate about Artificial Intelligence, Computer Vision, and Intelligent Software Systems.
 
 ---
 
-# ⭐ Support
+## 🌍 AI Language Translation Tool
 
-If you like this project, consider giving it a ⭐ on GitHub.
+**Empowering Seamless Multilingual Communication with Artificial Intelligence.**
 
----
+Built with **Python • Flask • HTML • CSS • JavaScript • AI Translation**
 
-<div align="center">
-
-### Built with ❤️ using Artificial Intelligence
-
-</div>
+© 2026 Parth Kokitkar
