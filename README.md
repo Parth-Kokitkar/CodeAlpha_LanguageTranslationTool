@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="screenshots/TranslationStudio.png" alt="AI Translation Studio" width="425">
+<p align="left">
+  <img src="screenshots/TranslationStudio.png" width="425">
 </p>
 
 ---
