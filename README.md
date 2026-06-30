@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="screenshots/TranslationStudio.png" alt="AI Translation Studio" width="725">
+  <img src="screenshots/TranslationStudio.png" alt="AI Translation Studio" width="425">
 </p>
----
 
+---
 
 ## 📖 Overview
 
