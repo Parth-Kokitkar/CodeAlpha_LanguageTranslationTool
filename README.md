@@ -3,7 +3,6 @@
 </p>
 
 ---
-
 ## 📖 Overview
 
 Translation Studio is an AI-powered multilingual web application developed as part of the **CodeAlpha Artificial Intelligence Internship**.
