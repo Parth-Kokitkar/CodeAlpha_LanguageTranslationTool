@@ -1,5 +1,17 @@
 [
     {
+        "input": "Okay, my name is Parth.",
+        "output": "ठीक है, मेरा नाम पार्थ है।"
+    },
+    {
+        "input": "Okay, my name is Parth",
+        "output": "ठीक है, मेरा नाम पार्थ है"
+    },
+    {
+        "input": "Okay, my name is Art.",
+        "output": "ठीक है, मेरा नाम कला है।"
+    },
+    {
         "input": "Hello, my name is Parth.",
         "output": "नमस्ते, मेरा नाम पार्थ है।"
     },

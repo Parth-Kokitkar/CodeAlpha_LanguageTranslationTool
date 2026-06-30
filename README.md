@@ -134,14 +134,41 @@ http://127.0.0.1:5000
 
 # 📸 Application Preview
 
-> Add screenshots here after uploading them.
+# 📸 Application Preview
 
-Example:
+## 🏠 Home Screen
 
-- Home Screen
-- Voice Recognition
-- Translation Output
-- History Panel
+![Home Screen](screenshots/home.png)
+
+---
+
+## 🎤 Listening Mode
+
+![Listening Mode](screenshots/ListeningMode.png)
+
+---
+
+## ⚙️ Processing Mode
+
+![Processing Mode](screenshots/ProcessingMode.png)
+
+---
+
+## 🌐 Supported Languages
+
+![Supported Languages](screenshots/SupportedLang.png)
+
+---
+
+## 🌍 Translation Result
+
+![Translation Result](screenshots/Translation.png)
+
+---
+
+## 🧠 Translation History
+
+![Translation History](screenshots/TranslationHistory.png)
 
 ---
 
